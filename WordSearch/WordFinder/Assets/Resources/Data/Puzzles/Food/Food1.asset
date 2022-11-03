@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Food1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  columns: 6
+  rows: 6
+  board:
+  - size: 6
+    row:
+    - F
+    - E
+    - E
+    - B
+    - U
+    - C
+  - size: 6
+    row:
+    - G
+    - S
+    - G
+    - U
+    - H
+    - Q
+  - size: 6
+    row:
+    - C
+    - B
+    - G
+    - E
+    - K
+    - C
+  - size: 6
+    row:
+    - M
+    - K
+    - E
+    - I
+    - M
+    - A
+  - size: 6
+    row:
+    - L
+    - S
+    - T
+    - T
+    - A
+    - K
+  - size: 6
+    row:
+    - E
+    - S
+    - M
+    - W
+    - H
+    - E
+  SearchWords:
+  - found: 1
+    word: BEEF
+  - found: 1
+    word: EGG
+  - found: 1
+    word: CHEESE
+  - found: 1
+    word: HAM
+  - found: 1
+    word: CAKE

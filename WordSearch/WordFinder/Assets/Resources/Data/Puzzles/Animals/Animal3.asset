@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Animal3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  columns: 8
+  rows: 12
+  board:
+  - size: 12
+    row:
+    - R
+    - S
+    - R
+    - E
+    - R
+    - S
+    - U
+    - P
+    - O
+    - T
+    - C
+    - O
+  - size: 12
+    row:
+    - A
+    - V
+    - C
+    - D
+    - I
+    - N
+    - G
+    - O
+    - I
+    - P
+    - D
+    - O
+  - size: 12
+    row:
+    - E
+    - N
+    - B
+    - L
+    - E
+    - R
+    - R
+    - I
+    - U
+    - Q
+    - S
+    - N
+  - size: 12
+    row:
+    - B
+    - F
+    - T
+    - V
+    - E
+    - A
+    - Z
+    - Q
+    - Q
+    - W
+    - Q
+    - H
+  - size: 12
+    row:
+    - J
+    - U
+    - U
+    - V
+    - G
+    - X
+    - S
+    - P
+    - M
+    - T
+    - P
+    - B
+  - size: 12
+    row:
+    - X
+    - M
+    - N
+    - N
+    - X
+    - K
+    - A
+    - T
+    - W
+    - O
+    - E
+    - B
+  - size: 12
+    row:
+    - P
+    - U
+    - A
+    - R
+    - U
+    - A
+    - L
+    - U
+    - V
+    - F
+    - E
+    - E
+  - size: 12
+    row:
+    - U
+    - K
+    - Z
+    - P
+    - D
+    - E
+    - E
+    - R
+    - S
+    - P
+    - Z
+    - E
+  SearchWords:
+  - word: BEE
+  - word: KANGAROO
+  - word: DINGO
+  - word: BEAR
+  - word: DEER
+  - word: SQUIRREL
+  - word: OCTOPUS
+  - word: TUNA

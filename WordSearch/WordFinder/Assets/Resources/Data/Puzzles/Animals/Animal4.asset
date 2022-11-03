@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Animal4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  columns: 9
+  rows: 12
+  board:
+  - size: 12
+    row:
+    - L
+    - I
+    - A
+    - N
+    - S
+    - B
+    - W
+    - R
+    - F
+    - R
+    - O
+    - G
+  - size: 12
+    row:
+    - J
+    - Z
+    - Y
+    - H
+    - D
+    - P
+    - F
+    - V
+    - R
+    - U
+    - C
+    - U
+  - size: 12
+    row:
+    - R
+    - T
+    - Y
+    - S
+    - B
+    - R
+    - D
+    - M
+    - L
+    - C
+    - H
+    - W
+  - size: 12
+    row:
+    - E
+    - L
+    - E
+    - P
+    - H
+    - A
+    - N
+    - T
+    - R
+    - W
+    - O
+    - T
+  - size: 12
+    row:
+    - T
+    - F
+    - K
+    - S
+    - X
+    - B
+    - W
+    - P
+    - J
+    - J
+    - R
+    - W
+  - size: 12
+    row:
+    - S
+    - Z
+    - N
+    - U
+    - G
+    - B
+    - L
+    - U
+    - E
+    - J
+    - V
+    - P
+  - size: 12
+    row:
+    - O
+    - P
+    - O
+    - P
+    - P
+    - I
+    - C
+    - V
+    - Q
+    - E
+    - O
+    - X
+  - size: 12
+    row:
+    - O
+    - P
+    - M
+    - B
+    - L
+    - T
+    - J
+    - B
+    - L
+    - T
+    - H
+    - M
+  - size: 12
+    row:
+    - R
+    - A
+    - X
+    - B
+    - U
+    - F
+    - F
+    - A
+    - L
+    - O
+    - J
+    - S
+  SearchWords:
+  - found: 0
+    word: RABBIT
+  - found: 0
+    word: ELEPHANT
+  - found: 0
+    word: MONKEY
+  - found: 0
+    word: FROG
+  - found: 0
+    word: SNAIL
+  - found: 0
+    word: BUFFALO
+  - found: 0
+    word: SHEEP
+  - found: 0
+    word: COW
+  - found: 0
+    word: ROOSTER

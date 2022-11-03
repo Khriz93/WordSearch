@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  columns: 10
+  rows: 10
+  board:
+  - size: 10
+    row:
+    - H
+    - H
+    - E
+    - K
+    - Y
+    - G
+    - C
+    - D
+    - V
+    - X
+  - size: 10
+    row:
+    - S
+    - E
+    - M
+    - I
+    - T
+    - X
+    - C
+    - P
+    - F
+    - V
+  - size: 10
+    row:
+    - C
+    - Y
+    - L
+    - P
+    - G
+    - T
+    - S
+    - I
+    - K
+    - J
+  - size: 10
+    row:
+    - Q
+    - A
+    - Z
+    - L
+    - W
+    - G
+    - D
+    - Z
+    - C
+    - I
+  - size: 10
+    row:
+    - A
+    - F
+    - E
+    - S
+    - O
+    - C
+    - K
+    - G
+    - G
+    - M
+  - size: 10
+    row:
+    - W
+    - F
+    - R
+    - U
+    - G
+    - Q
+    - M
+    - W
+    - D
+    - A
+  - size: 10
+    row:
+    - P
+    - D
+    - O
+    - M
+    - G
+    - W
+    - Y
+    - U
+    - R
+    - T
+  - size: 10
+    row:
+    - T
+    - Y
+    - M
+    - M
+    - E
+    - R
+    - L
+    - I
+    - Q
+    - A
+  - size: 10
+    row:
+    - Y
+    - U
+    - L
+    - E
+    - P
+    - R
+    - F
+    - E
+    - I
+    - Y
+  - size: 10
+    row:
+    - N
+    - E
+    - D
+    - R
+    - A
+    - G
+    - R
+    - S
+    - J
+    - H
+  SearchWords:
+  - word: HELLO
+  - word: BEACH
+  - word: SUMMER
+  - word: NIGHT
+  - word: GARDEN
+  - word: WOLF
+  - word: DUCK
+  - word: LUNCH
+  - word: TIME
+  - word: SOCK

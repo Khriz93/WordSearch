@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Animal5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  columns: 9
+  rows: 13
+  board:
+  - size: 13
+    row:
+    - H
+    - A
+    - M
+    - S
+    - T
+    - E
+    - R
+    - A
+    - Y
+    - H
+    - L
+    - W
+    - T
+  - size: 13
+    row:
+    - F
+    - L
+    - O
+    - W
+    - K
+    - E
+    - P
+    - P
+    - E
+    - F
+    - L
+    - N
+    - N
+  - size: 13
+    row:
+    - T
+    - Q
+    - Z
+    - F
+    - D
+    - S
+    - Q
+    - N
+    - K
+    - R
+    - A
+    - Y
+    - I
+  - size: 13
+    row:
+    - C
+    - Q
+    - C
+    - I
+    - T
+    - K
+    - H
+    - M
+    - R
+    - X
+    - K
+    - P
+    - U
+  - size: 13
+    row:
+    - H
+    - I
+    - P
+    - P
+    - O
+    - P
+    - O
+    - T
+    - A
+    - M
+    - U
+    - S
+    - G
+  - size: 13
+    row:
+    - N
+    - S
+    - D
+    - A
+    - G
+    - O
+    - N
+    - X
+    - Y
+    - Y
+    - B
+    - A
+    - N
+  - size: 13
+    row:
+    - B
+    - E
+    - L
+    - I
+    - D
+    - O
+    - C
+    - O
+    - R
+    - C
+    - A
+    - D
+    - E
+  - size: 13
+    row:
+    - V
+    - A
+    - R
+    - H
+    - O
+    - G
+    - N
+    - A
+    - C
+    - I
+    - L
+    - E
+    - P
+  - size: 13
+    row:
+    - X
+    - B
+    - C
+    - A
+    - T
+    - E
+    - P
+    - I
+    - L
+    - L
+    - A
+    - R
+    - X
+  SearchWords:
+  - word: HEN
+  - word: HIPPOPOTAMUS
+  - word: KOALA
+  - word: CROCODILE
+  - word: WOLF
+  - word: PENGUIN
+  - word: HAMSTER
+  - word: ANT
+  - word: SPIDER
+  - word: CATEPILLAR
+  - word: PELICAN

@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  columns: 7
+  rows: 10
+  board:
+  - size: 10
+    row:
+    - C
+    - B
+    - I
+    - H
+    - N
+    - D
+    - F
+    - V
+    - S
+    - C
+  - size: 10
+    row:
+    - M
+    - H
+    - F
+    - O
+    - R
+    - A
+    - B
+    - G
+    - F
+    - H
+  - size: 10
+    row:
+    - J
+    - G
+    - I
+    - P
+    - E
+    - E
+    - Z
+    - N
+    - G
+    - I
+  - size: 10
+    row:
+    - Z
+    - N
+    - P
+    - C
+    - D
+    - R
+    - T
+    - K
+    - V
+    - P
+  - size: 10
+    row:
+    - O
+    - H
+    - A
+    - T
+    - K
+    - B
+    - J
+    - T
+    - X
+    - S
+  - size: 10
+    row:
+    - T
+    - J
+    - W
+    - W
+    - H
+    - E
+    - A
+    - T
+    - U
+    - D
+  - size: 10
+    row:
+    - D
+    - A
+    - L
+    - A
+    - S
+    - G
+    - N
+    - E
+    - Y
+    - B
+  SearchWords:
+  - word: WHEAT
+  - word: CHICKEN
+  - word: BREAD
+  - word: SALAD
+  - word: ONION
+  - word: BUTTER
+  - word: CHIPS

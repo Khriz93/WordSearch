@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d947a20c3f1ad9f42a65503f6ef67697, type: 3}
+  m_Name: Sport2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  columns: 6
+  rows: 6
+  board:
+  - size: 6
+    row:
+    - T
+    - E
+    - N
+    - N
+    - I
+    - S
+  - size: 6
+    row:
+    - P
+    - G
+    - S
+    - N
+    - N
+    - G
+  - size: 6
+    row:
+    - H
+    - D
+    - I
+    - H
+    - J
+    - O
+  - size: 6
+    row:
+    - H
+    - J
+    - Z
+    - W
+    - R
+    - Q
+  - size: 6
+    row:
+    - T
+    - A
+    - Z
+    - S
+    - U
+    - X
+  - size: 6
+    row:
+    - K
+    - A
+    - S
+    - C
+    - M
+    - S
+  SearchWords:
+  - word: TENNIS
